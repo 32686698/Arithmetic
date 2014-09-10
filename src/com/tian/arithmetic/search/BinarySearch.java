@@ -1,4 +1,4 @@
-package com.tian.search;
+package com.tian.arithmetic.search;
 
 /**
  * ¶ş·Ö²éÕÒ
