@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 import java.math.BigInteger;
 
 /**
- * 求小于某个数的所有素数
+ * 求小于某个数的所有素数4,294,967,295
  * @author HisignT
  *https://www.codeeval.com/open_challenges/46/
  */
