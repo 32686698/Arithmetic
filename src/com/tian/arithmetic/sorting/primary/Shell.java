@@ -1,4 +1,4 @@
-package com.tian.arithmetic.sorting;
+package com.tian.arithmetic.sorting.primary;
 
 import com.tian.arithmetic.sorting.base.SortTemplate;
 

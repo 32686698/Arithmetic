@@ -1,4 +1,4 @@
-package com.tian.arithmetic.sorting;
+package com.tian.arithmetic.sorting.primary;
 
 import com.tian.arithmetic.sorting.base.SortTemplate;
 
@@ -23,8 +23,8 @@ public class Insertion extends SortTemplate {
 	}
 	
 	public static void main(String[] args) {
-		Comparable[] a = {5,2,6,3,1,4};
-		new Insertion().sort(a);
+		SortTemplate s = new Insertion();
+		s.sort(s.getRandomArray(10, 20));
 	}
 	
 	/**
